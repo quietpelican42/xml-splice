@@ -1,0 +1,53 @@
+{
+  "name": "xml-splice",
+  "version": "0.1.0",
+  "description": "Edit XML files (pom.xml, csproj, AndroidManifest.xml) by splicing into the original text, so every byte outside the edit stays identical.",
+  "keywords": [
+    "xml",
+    "edit",
+    "pom.xml",
+    "csproj",
+    "maven",
+    "nuget",
+    "android-manifest",
+    "format-preserving",
+    "lossless",
+    "round-trip"
+  ],
+  "license": "MIT",
+  "author": "__AUTHOR__",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/__GH_OWNER__/xml-splice.git"
+  },
+  "type": "module",
+  "engines": {
+    "node": ">=20.6.0"
+  },
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "default": "./dist/index.js"
+    }
+  },
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "test": "node --test \"test/*.test.ts\"",
+    "typecheck": "tsc --noEmit",
+    "build": "rm -rf dist && tsc -p tsconfig.build.json",
+    "corpus": "node scripts/fetch-corpus.mjs",
+    "bench": "node bench/measure.mjs",
+    "prepublishOnly": "npm run typecheck && npm test && npm run build && npm run test:dist",
+    "test:dist": "node --test test/smoke.mjs"
+  },
+  "devDependencies": {
+    "@rgrove/parse-xml": "^5.0.0",
+    "@types/node": "^24.0.0",
+    "@xmldom/xmldom": "^0.9.0",
+    "typescript": "^5.7.0"
+  }
+}

@@ -1,0 +1,650 @@
+[
+ {
+  "name": "apache__commons-lang__pom.xml",
+  "url": "https://raw.githubusercontent.com/apache/commons-lang/29624cdb50ecd794207d561345b2fc9ca3a9d326/pom.xml",
+  "sha256": "acc8fb23b5257214ab4137638a04011dec13a82acf5ac7a3b846eecb269a4f4d",
+  "bytes": 35603
+ },
+ {
+  "name": "apache__commons-io__pom.xml",
+  "url": "https://raw.githubusercontent.com/apache/commons-io/2c6bf8dea065e96651661d5e277e35b2f343d879/pom.xml",
+  "sha256": "99172fbff6821512c5c4518cfe512295cff32f7930c9832304acdd14761d8b58",
+  "bytes": 19830
+ },
+ {
+  "name": "google__guava__android__guava-bom__pom.xml",
+  "url": "https://raw.githubusercontent.com/google/guava/b0ab782522cbc48dbd73d1fe6d8bf0aa9c1fe52f/android/guava-bom/pom.xml",
+  "sha256": "3beb6a000ff85e2f59b9ab135183bf470f957cc47391402399f9f07ac3df9908",
+  "bytes": 3216
+ },
+ {
+  "name": "google__guava__android__guava-testlib__pom.xml",
+  "url": "https://raw.githubusercontent.com/google/guava/b0ab782522cbc48dbd73d1fe6d8bf0aa9c1fe52f/android/guava-testlib/pom.xml",
+  "sha256": "f482700b3dc8bc5dde5338c9289fb5cebdeb539014cef1daea2bf3099a558bd8",
+  "bytes": 5246
+ },
+ {
+  "name": "google__gson__extras__pom.xml",
+  "url": "https://raw.githubusercontent.com/google/gson/854c8255b625cf1e13c701a83ea9ccb4caaa576a/extras/pom.xml",
+  "sha256": "6f09e5a8a01d0e6bf48d864a04842abfd3b66dba8a32c3df1b776c787c9d0120",
+  "bytes": 2762
+ },
+ {
+  "name": "google__gson__gson__pom.xml",
+  "url": "https://raw.githubusercontent.com/google/gson/854c8255b625cf1e13c701a83ea9ccb4caaa576a/gson/pom.xml",
+  "sha256": "4750f6235050270c57b4e99504ecb34375e93df24a5bc28416bca00dbdfd2e40",
+  "bytes": 22857
+ },
+ {
+  "name": "jhy__jsoup__pom.xml",
+  "url": "https://raw.githubusercontent.com/jhy/jsoup/0dc96b3b144c2eae59bcb1d5e1b412269ee50f2b/pom.xml",
+  "sha256": "e100f30fe8dc33f9445644bd5ee53a2e59750995ae62eb209f5882da7c0c63f3",
+  "bytes": 24276
+ },
+ {
+  "name": "dropwizard__dropwizard__docs__pom.xml",
+  "url": "https://raw.githubusercontent.com/dropwizard/dropwizard/46bb4ed81902fae9a08acb7ef91a9cfa9d6a94c6/docs/pom.xml",
+  "sha256": "46afdfcaa957babd6c0cb7470802fba4002b5085dfade4bd628e11263fd17c0f",
+  "bytes": 1499
+ },
+ {
+  "name": "dropwizard__dropwizard__docs__source__examples__conscrypt__pom.xml",
+  "url": "https://raw.githubusercontent.com/dropwizard/dropwizard/46bb4ed81902fae9a08acb7ef91a9cfa9d6a94c6/docs/source/examples/conscrypt/pom.xml",
+  "sha256": "f556a955f711d0f79fc43b183056213f1feff9309373c5d25500703d7d4e7b6c",
+  "bytes": 1394
+ },
+ {
+  "name": "spring-projects__spring-petclinic__pom.xml",
+  "url": "https://raw.githubusercontent.com/spring-projects/spring-petclinic/f3c74834e31079f69855e9c9eddb34fceb40a8d9/pom.xml",
+  "sha256": "7e61df0a43d538a5404e8130a55b8085541ec8e841fcf39f81bb6d3d81dcd2f4",
+  "bytes": 15955
+ },
+ {
+  "name": "apache__maven__pom.xml",
+  "url": "https://raw.githubusercontent.com/apache/maven/bcba9ac8d7aea49306476434132a03617777b7af/pom.xml",
+  "sha256": "274f0971855b6ef17a05cc2adb436c7cf039febe06e05cd0faa14f2f85a3c459",
+  "bytes": 54080
+ },
+ {
+  "name": "jenkinsci__jenkins__pom.xml",
+  "url": "https://raw.githubusercontent.com/jenkinsci/jenkins/a2c9bfcc931347b67bb45c120343f1fb8590c508/pom.xml",
+  "sha256": "8d9fbc2bb67be57328c800ff852c0f3c94062e021b6782d17068ccd00ce6bee9",
+  "bytes": 24783
+ },
+ {
+  "name": "FasterXML__jackson-databind__pom.xml",
+  "url": "https://raw.githubusercontent.com/FasterXML/jackson-databind/02a5565df1706d11a72c7e5fbe085095b9686948/pom.xml",
+  "sha256": "e6374d5cf882f4220f19406369880e7a554a83bb1f4d5229fd5eda98c4840c2c",
+  "bytes": 19343
+ },
+ {
+  "name": "apache__logging-log4j2__pom.xml",
+  "url": "https://raw.githubusercontent.com/apache/logging-log4j2/d9a2c4ea9193a1122596e7df150711d5cd298e0c/pom.xml",
+  "sha256": "9bcaf703e41b857076be5a55a60ef2b7a184bf043287395f805593a70cbe54aa",
+  "bytes": 38558
+ },
+ {
+  "name": "netty__netty__pom.xml",
+  "url": "https://raw.githubusercontent.com/netty/netty/6155c4b83ac9b99bd402a85dd1f33f981225e93e/pom.xml",
+  "sha256": "902d4172032742108215937c5fcf7ba07aa0b5f37f5723927e671b8ffd6bd585",
+  "bytes": 93107
+ },
+ {
+  "name": "JamesNK__Newtonsoft.Json__Src__Directory.Build.props",
+  "url": "https://raw.githubusercontent.com/JamesNK/Newtonsoft.Json/52fa3aef1f2cadcd3a3f874251eddc98d3efbbaa/Src/Directory.Build.props",
+  "sha256": "98a428c27be5c00a4ae8f1785fcb62af802fde98070e64e5dc46703b3add5471",
+  "bytes": 1362
+ },
+ {
+  "name": "JamesNK__Newtonsoft.Json__Src__Newtonsoft.Json.FuzzTests__Newtonsoft.Json.FuzzTests.csproj",
+  "url": "https://raw.githubusercontent.com/JamesNK/Newtonsoft.Json/52fa3aef1f2cadcd3a3f874251eddc98d3efbbaa/Src/Newtonsoft.Json.FuzzTests/Newtonsoft.Json.FuzzTests.csproj",
+  "sha256": "606e8205bf66ee3bd7fc7aa82792a731feb84d3e038a21aa3a437e55f13c649b",
+  "bytes": 855
+ },
+ {
+  "name": "JamesNK__Newtonsoft.Json__Src__Newtonsoft.Json.TestConsole__Newtonsoft.Json.TestConsole.csproj",
+  "url": "https://raw.githubusercontent.com/JamesNK/Newtonsoft.Json/52fa3aef1f2cadcd3a3f874251eddc98d3efbbaa/Src/Newtonsoft.Json.TestConsole/Newtonsoft.Json.TestConsole.csproj",
+  "sha256": "7929f0a123879971cdccca37fa0fa810b1120f1a6d135ab23e6d1035dcd5e0bb",
+  "bytes": 707
+ },
+ {
+  "name": "serilog__serilog__Directory.Build.props",
+  "url": "https://raw.githubusercontent.com/serilog/serilog/bebc7719004f76187ae72e64ce138ec2540f2070/Directory.Build.props",
+  "sha256": "bdbf5401c29af6afbbbd8e271b0c641879c538ac66f3dea058257959d449539f",
+  "bytes": 1366
+ },
+ {
+  "name": "serilog__serilog__src__Serilog__Serilog.csproj",
+  "url": "https://raw.githubusercontent.com/serilog/serilog/bebc7719004f76187ae72e64ce138ec2540f2070/src/Serilog/Serilog.csproj",
+  "sha256": "d5fc241ad618c716661ff9e2317d892f7b615bf50ca6b64e9c2751b1703b8edd",
+  "bytes": 4606
+ },
+ {
+  "name": "serilog__serilog__test__AotTestApp__AotTestApp.csproj",
+  "url": "https://raw.githubusercontent.com/serilog/serilog/bebc7719004f76187ae72e64ce138ec2540f2070/test/AotTestApp/AotTestApp.csproj",
+  "sha256": "5efe060db38a7f6c4b569c0b7b024d34033de276d2582996d55ffa7072eb588f",
+  "bytes": 668
+ },
+ {
+  "name": "serilog__serilog__test__Serilog.ApprovalTests__Serilog.ApprovalTests.csproj",
+  "url": "https://raw.githubusercontent.com/serilog/serilog/bebc7719004f76187ae72e64ce138ec2540f2070/test/Serilog.ApprovalTests/Serilog.ApprovalTests.csproj",
+  "sha256": "44c0e9a8b9746b310b89a25622243c09b1b32f03cb0a695d12f316c75b9f1b0c",
+  "bytes": 741
+ },
+ {
+  "name": "xunit__xunit__src__Directory.Build.props",
+  "url": "https://raw.githubusercontent.com/xunit/xunit/502dbcabf2d96f1ab5c12f9b3da997f1a1cd3790/src/Directory.Build.props",
+  "sha256": "6f9e471bda2465acc3c943cd75192d6f07f1cd0e54b5eaba2effbd1579dc1b55",
+  "bytes": 12652
+ },
+ {
+  "name": "xunit__xunit__src__Versions.props",
+  "url": "https://raw.githubusercontent.com/xunit/xunit/502dbcabf2d96f1ab5c12f9b3da997f1a1cd3790/src/Versions.props",
+  "sha256": "b0bb65d070000bffcd7fabad3f63ae1bd23d71b4da3ce2e38b4c103b7e553569",
+  "bytes": 3126
+ },
+ {
+  "name": "xunit__xunit__src__xunit.v1.tests__xunit.v1.tests.csproj",
+  "url": "https://raw.githubusercontent.com/xunit/xunit/502dbcabf2d96f1ab5c12f9b3da997f1a1cd3790/src/xunit.v1.tests/xunit.v1.tests.csproj",
+  "sha256": "c444fe3c1b447811f4230e17c6c60543cc9d85bd985ff28ed405f11d1f7431f3",
+  "bytes": 825
+ },
+ {
+  "name": "xunit__xunit__src__xunit.v2.tests__xunit.v2.tests.csproj",
+  "url": "https://raw.githubusercontent.com/xunit/xunit/502dbcabf2d96f1ab5c12f9b3da997f1a1cd3790/src/xunit.v2.tests/xunit.v2.tests.csproj",
+  "sha256": "aae6c1051bed584fa04310d4195612ce5bb59d17116c9679f37a8ef2ab5850ac",
+  "bytes": 886
+ },
+ {
+  "name": "dotnet__efcore__Directory.Build.props",
+  "url": "https://raw.githubusercontent.com/dotnet/efcore/d5ee0dd3f1c6a7d38bef66f710b29be5f8f8da69/Directory.Build.props",
+  "sha256": "72afa249ca4b801bc12046180ae1a6551877af1f43caacc961700dfe822a7901",
+  "bytes": 3549
+ },
+ {
+  "name": "dotnet__efcore__Directory.Packages.props",
+  "url": "https://raw.githubusercontent.com/dotnet/efcore/d5ee0dd3f1c6a7d38bef66f710b29be5f8f8da69/Directory.Packages.props",
+  "sha256": "1fc7d6be0b8c5efbb120cfc333fd8165787870b02261b897ae880f7163920652",
+  "bytes": 3635
+ },
+ {
+  "name": "dotnet__efcore__NuGet.config",
+  "url": "https://raw.githubusercontent.com/dotnet/efcore/d5ee0dd3f1c6a7d38bef66f710b29be5f8f8da69/NuGet.config",
+  "sha256": "33ce0edd08bcfc14bd0851d546b555f449589bb064447f21151b6d49d59890ce",
+  "bytes": 2684
+ },
+ {
+  "name": "AutoMapper__AutoMapper__Directory.Build.props",
+  "url": "https://raw.githubusercontent.com/AutoMapper/AutoMapper/6e8697bc44f02fb54ef6a556a7d134e63485299e/Directory.Build.props",
+  "sha256": "f276172f404108a8b441e2c40dd39ef77327e96ea00ca560e32a61270d4ac0b1",
+  "bytes": 1167
+ },
+ {
+  "name": "AutoMapper__AutoMapper__src__AutoMapper.DI.Tests__AutoMapper.DI.Tests.csproj",
+  "url": "https://raw.githubusercontent.com/AutoMapper/AutoMapper/6e8697bc44f02fb54ef6a556a7d134e63485299e/src/AutoMapper.DI.Tests/AutoMapper.DI.Tests.csproj",
+  "sha256": "e2f7691fabc7930b649313c5d5a0e2d44d8f1bc5ec7ec354cecc5941f4f7e58e",
+  "bytes": 1215
+ },
+ {
+  "name": "AutoMapper__AutoMapper__src__AutoMapper__AutoMapper.csproj",
+  "url": "https://raw.githubusercontent.com/AutoMapper/AutoMapper/6e8697bc44f02fb54ef6a556a7d134e63485299e/src/AutoMapper/AutoMapper.csproj",
+  "sha256": "47785508425eb6844c5b7e55d6c9fc1d5b1707bd3bca9acf4ddeaec2e7e9fc4c",
+  "bytes": 5382
+ },
+ {
+  "name": "dotnet__aspnetcore__Directory.Build.props",
+  "url": "https://raw.githubusercontent.com/dotnet/aspnetcore/bf676af7baa13fa4d06be384b4285d5406161219/Directory.Build.props",
+  "sha256": "f458a4a7439eb81c3602a24720cdf8169caa76c02786c4c386a267017186c8db",
+  "bytes": 22445
+ },
+ {
+  "name": "dotnet__aspnetcore__NuGet.config",
+  "url": "https://raw.githubusercontent.com/dotnet/aspnetcore/bf676af7baa13fa4d06be384b4285d5406161219/NuGet.config",
+  "sha256": "b08e9628d3f1a843ef22357b9b86cb0a4de38c320f04c4b37bc35d711f3ca7d4",
+  "bytes": 2262
+ },
+ {
+  "name": "dotnet__aspnetcore__eng__common__internal__NuGet.config",
+  "url": "https://raw.githubusercontent.com/dotnet/aspnetcore/bf676af7baa13fa4d06be384b4285d5406161219/eng/common/internal/NuGet.config",
+  "sha256": "94d98c0d46fcd7c8420687366d64910f10fbe01655105251f229901410bbed55",
+  "bytes": 339
+ },
+ {
+  "name": "dotnet__runtime__Directory.Build.props",
+  "url": "https://raw.githubusercontent.com/dotnet/runtime/49e04fa0e472453f4391c4a7097d9e55380dbef2/Directory.Build.props",
+  "sha256": "f671355d1f08edda5e5db7c120a3727bc4b4edf552dca17cf716ed7db6482a3d",
+  "bytes": 33027
+ },
+ {
+  "name": "dotnet__runtime__NuGet.config",
+  "url": "https://raw.githubusercontent.com/dotnet/runtime/49e04fa0e472453f4391c4a7097d9e55380dbef2/NuGet.config",
+  "sha256": "4006a07c076774f3d265684b60aff702d517aeb329b877a8a4e9b0ee6c57ecb1",
+  "bytes": 2314
+ },
+ {
+  "name": "dotnet__runtime__eng__common__internal__NuGet.config",
+  "url": "https://raw.githubusercontent.com/dotnet/runtime/49e04fa0e472453f4391c4a7097d9e55380dbef2/eng/common/internal/NuGet.config",
+  "sha256": "94d98c0d46fcd7c8420687366d64910f10fbe01655105251f229901410bbed55",
+  "bytes": 339
+ },
+ {
+  "name": "android__sunflower__app__src__main__AndroidManifest.xml",
+  "url": "https://raw.githubusercontent.com/android/sunflower/2a357a31551bb53f3fe80382a9ce6d30bcc8b960/app/src/main/AndroidManifest.xml",
+  "sha256": "26b58c436e670fdaaaf9e961766b95e424bc69774852565cd862cf7f03e27a8d",
+  "bytes": 2313
+ },
+ {
+  "name": "android__sunflower__macrobenchmark__src__main__AndroidManifest.xml",
+  "url": "https://raw.githubusercontent.com/android/sunflower/2a357a31551bb53f3fe80382a9ce6d30bcc8b960/macrobenchmark/src/main/AndroidManifest.xml",
+  "sha256": "ace2da15379f3b047f154b909d4a52933621baf4ab57cb8acad4cd899f960759",
+  "bytes": 664
+ },
+ {
+  "name": "android__architecture-samples__app__src__debug__AndroidManifest.xml",
+  "url": "https://raw.githubusercontent.com/android/architecture-samples/ee66e1526b84c026615df032c705842b7d2a521f/app/src/debug/AndroidManifest.xml",
+  "sha256": "683276a80e7280efc5cb1b810199df426b131d5c111c9a9aa8cb9bd0a7eb4ee2",
+  "bytes": 962
+ },
+ {
+  "name": "android__architecture-samples__app__src__main__AndroidManifest.xml",
+  "url": "https://raw.githubusercontent.com/android/architecture-samples/ee66e1526b84c026615df032c705842b7d2a521f/app/src/main/AndroidManifest.xml",
+  "sha256": "4b2019952d84c7af0e7dc390d9cf34fe0e82f6477966abfc49457f6fb36a2205",
+  "bytes": 1453
+ },
+ {
+  "name": "android__compose-samples__JetLagged__app__src__main__AndroidManifest.xml",
+  "url": "https://raw.githubusercontent.com/android/compose-samples/02c0999e63a99e4e2640716fcb8e3b22e16feb16/JetLagged/app/src/main/AndroidManifest.xml",
+  "sha256": "0e7c01705ced46e62a6d32c5f9b251e6c7997e8e7d4b8bd613c543e92faa3f12",
+  "bytes": 1795
+ },
+ {
+  "name": "android__compose-samples__JetNews__app__src__main__AndroidManifest.xml",
+  "url": "https://raw.githubusercontent.com/android/compose-samples/02c0999e63a99e4e2640716fcb8e3b22e16feb16/JetNews/app/src/main/AndroidManifest.xml",
+  "sha256": "79f948e796a8f3d997a2736ed57f80400a4372508c156944efc626e7617872a2",
+  "bytes": 2524
+ },
+ {
+  "name": "android__compose-samples__Jetcaster__glancewidget__src__main__AndroidManifest.xml",
+  "url": "https://raw.githubusercontent.com/android/compose-samples/02c0999e63a99e4e2640716fcb8e3b22e16feb16/Jetcaster/glancewidget/src/main/AndroidManifest.xml",
+  "sha256": "786309655a829a0f26fe96a8f6b48b1b68cab30ea30b0d389f39ee4976ab50ba",
+  "bytes": 699
+ },
+ {
+  "name": "android__nowinandroid__app-nia-catalog__src__main__AndroidManifest.xml",
+  "url": "https://raw.githubusercontent.com/android/nowinandroid/a49ed253d75e61a2b6ab80a8da677b57437b08eb/app-nia-catalog/src/main/AndroidManifest.xml",
+  "sha256": "f49c4545efa11204044f0ee87c057f3f58116255e1ee00e66610912fca0d57ce",
+  "bytes": 1505
+ },
+ {
+  "name": "android__nowinandroid__app__src__main__AndroidManifest.xml",
+  "url": "https://raw.githubusercontent.com/android/nowinandroid/a49ed253d75e61a2b6ab80a8da677b57437b08eb/app/src/main/AndroidManifest.xml",
+  "sha256": "cd604e4458e33407f6731c08d37095d703300cfcb1ac10d8229feb171e801e40",
+  "bytes": 3360
+ },
+ {
+  "name": "android__nowinandroid__app__src__prod__AndroidManifest.xml",
+  "url": "https://raw.githubusercontent.com/android/nowinandroid/a49ed253d75e61a2b6ab80a8da677b57437b08eb/app/src/prod/AndroidManifest.xml",
+  "sha256": "78af0c08fe89f6200c5152e6ea38ba275f26024d634ec1da71242067cbc44ac3",
+  "bytes": 1069
+ },
+ {
+  "name": "Alamofire__Alamofire__Alamofire.xcodeproj__xcshareddata__xcschemes__Alamofire iOS.xcscheme",
+  "url": "https://raw.githubusercontent.com/Alamofire/Alamofire/bda9ed57d72988a3a2ada33d824583541f86eac6/Alamofire.xcodeproj/xcshareddata/xcschemes/Alamofire%20iOS.xcscheme",
+  "sha256": "75ac274624a2e3f70da4a642b40074527d8c9ae047214890ae2374d3e9f515ee",
+  "bytes": 5228
+ },
+ {
+  "name": "Alamofire__Alamofire__Alamofire.xcodeproj__xcshareddata__xcschemes__Alamofire macOS.xcscheme",
+  "url": "https://raw.githubusercontent.com/Alamofire/Alamofire/bda9ed57d72988a3a2ada33d824583541f86eac6/Alamofire.xcodeproj/xcshareddata/xcschemes/Alamofire%20macOS.xcscheme",
+  "sha256": "d06eb2fc694a518191bb16156482da2b29cc0c2fdf2c1deb5715262cec2573df",
+  "bytes": 5292
+ },
+ {
+  "name": "Alamofire__Alamofire__Alamofire.xcodeproj__xcshareddata__xcschemes__Alamofire tvOS.xcscheme",
+  "url": "https://raw.githubusercontent.com/Alamofire/Alamofire/bda9ed57d72988a3a2ada33d824583541f86eac6/Alamofire.xcodeproj/xcshareddata/xcschemes/Alamofire%20tvOS.xcscheme",
+  "sha256": "8180a7be6aa77d6580f21a5fa8346dc4c1c3e3d5a61ba10231ee1cc99ea4a2a6",
+  "bytes": 5238
+ },
+ {
+  "name": "ReactiveX__RxSwift__Preprocessor__Preprocessor.xcodeproj__xcshareddata__xcschemes__Preprocessor.xcscheme",
+  "url": "https://raw.githubusercontent.com/ReactiveX/RxSwift/3e33f90c1bcd3cdea25bdb49bd4a594a50c3ab84/Preprocessor/Preprocessor.xcodeproj/xcshareddata/xcschemes/Preprocessor.xcscheme",
+  "sha256": "ddaa1489404ac2ef4175faa64e033c8400a4fa694be7a77d53fe5a438bd56139",
+  "bytes": 3086
+ },
+ {
+  "name": "ReactiveX__RxSwift__Rx.xcodeproj__xcshareddata__xcschemes__AllTests-iOS.xcscheme",
+  "url": "https://raw.githubusercontent.com/ReactiveX/RxSwift/3e33f90c1bcd3cdea25bdb49bd4a594a50c3ab84/Rx.xcodeproj/xcshareddata/xcschemes/AllTests-iOS.xcscheme",
+  "sha256": "4b9314ce3003a570bbc57352d3c43ea4e60aace2d57730cc0d33abb62c6ba35f",
+  "bytes": 1912
+ },
+ {
+  "name": "apache__ant__build.xml",
+  "url": "https://raw.githubusercontent.com/apache/ant/233e220ee2c71f173bb3cbe4d2ee02288e58198e/build.xml",
+  "sha256": "092e3fa5a7078eb9a44dcb79f7c16f9608437bf02d607d69cbd75054bffe9985",
+  "bytes": 120052
+ },
+ {
+  "name": "spring-projects__spring-framework__integration-tests__src__test__resources__org__springframework__aop__config__AopNamespaceHandlerScopeIntegrationTests-context.xml",
+  "url": "https://raw.githubusercontent.com/spring-projects/spring-framework/ae2caf89de66c40f47332c4d8efa091c29039e4f/integration-tests/src/test/resources/org/springframework/aop/config/AopNamespaceHandlerScopeIntegrationTests-context.xml",
+  "sha256": "65654f2696ebd0e7809b138bab5ec5d5a449545b0bd683bdc9c92ca905368978",
+  "bytes": 1322
+ },
+ {
+  "name": "spring-projects__spring-framework__integration-tests__src__test__resources__org__springframework__aop__framework__autoproxy__AdvisorAutoProxyCreatorIntegrationTests-context.xml",
+  "url": "https://raw.githubusercontent.com/spring-projects/spring-framework/ae2caf89de66c40f47332c4d8efa091c29039e4f/integration-tests/src/test/resources/org/springframework/aop/framework/autoproxy/AdvisorAutoProxyCreatorIntegrationTests-context.xml",
+  "sha256": "a686b20ae16e927ee5130a26470770264cc985e825c784882dcb9845c5bb38c6",
+  "bytes": 4689
+ },
+ {
+  "name": "spring-projects__spring-framework__integration-tests__src__test__resources__org__springframework__core__env__EnvironmentSystemIntegrationTests-context.xml",
+  "url": "https://raw.githubusercontent.com/spring-projects/spring-framework/ae2caf89de66c40f47332c4d8efa091c29039e4f/integration-tests/src/test/resources/org/springframework/core/env/EnvironmentSystemIntegrationTests-context.xml",
+  "sha256": "5c6a4bb8e9e73fe465db82634059faaa960e3a76c37f49f3d7bcebc2be381c8f",
+  "bytes": 636
+ },
+ {
+  "name": "spring-projects__spring-framework__spring-aop__src__test__resources__org__springframework__aop__config__AopNamespaceHandlerEventTests-context.xml",
+  "url": "https://raw.githubusercontent.com/spring-projects/spring-framework/ae2caf89de66c40f47332c4d8efa091c29039e4f/spring-aop/src/test/resources/org/springframework/aop/config/AopNamespaceHandlerEventTests-context.xml",
+  "sha256": "07e61147ceb1e4e1b53a885a57c98a11b774e9f4cede0d48db497b5c7545dcc2",
+  "bytes": 1073
+ },
+ {
+  "name": "spring-projects__spring-petclinic__src__checkstyle__nohttp-checkstyle-suppressions.xml",
+  "url": "https://raw.githubusercontent.com/spring-projects/spring-petclinic/f3c74834e31079f69855e9c9eddb34fceb40a8d9/src/checkstyle/nohttp-checkstyle-suppressions.xml",
+  "sha256": "696098a186b1c0b7c77f0ecb3a66d181222386cea4e9ddefb06f6a56c8521e45",
+  "bytes": 470
+ },
+ {
+  "name": "spring-projects__spring-petclinic__src__checkstyle__nohttp-checkstyle.xml",
+  "url": "https://raw.githubusercontent.com/spring-projects/spring-petclinic/f3c74834e31079f69855e9c9eddb34fceb40a8d9/src/checkstyle/nohttp-checkstyle.xml",
+  "sha256": "c2d2e71ea2f598085dd25140e6820a3131b1d55d5544fe6a43ce5d4184e91045",
+  "bytes": 412
+ },
+ {
+  "name": "mybatis__mybatis-3__src__test__resources__org__apache__ibatis__autoconstructor__AutoConstructorMapper.xml",
+  "url": "https://raw.githubusercontent.com/mybatis/mybatis-3/34147d0bd2f5ed0016ef367c92b25e174149326b/src/test/resources/org/apache/ibatis/autoconstructor/AutoConstructorMapper.xml",
+  "sha256": "5a60327b2385e9e6b7a7e61e9be83d1b262149b7edb880c58178f934a2e64f7a",
+  "bytes": 902
+ },
+ {
+  "name": "mybatis__mybatis-3__src__test__resources__org__apache__ibatis__autoconstructor__mybatis-config.xml",
+  "url": "https://raw.githubusercontent.com/mybatis/mybatis-3/34147d0bd2f5ed0016ef367c92b25e174149326b/src/test/resources/org/apache/ibatis/autoconstructor/mybatis-config.xml",
+  "sha256": "20cffb50e3c1601cd42f48d0f8270a91a0c94a7b36d5b44b93bfb694fa562589",
+  "bytes": 1567
+ },
+ {
+  "name": "mybatis__mybatis-3__src__test__resources__org__apache__ibatis__binding__BoundAuthorMapper.xml",
+  "url": "https://raw.githubusercontent.com/mybatis/mybatis-3/34147d0bd2f5ed0016ef367c92b25e174149326b/src/test/resources/org/apache/ibatis/binding/BoundAuthorMapper.xml",
+  "sha256": "8ee60b97a1d77bc54c104b22bd332b741b0ccbdd68a4ed67cdb69183cf7dcded",
+  "bytes": 4151
+ },
+ {
+  "name": "checkstyle__checkstyle__src__main__resources__google_checks.xml",
+  "url": "https://raw.githubusercontent.com/checkstyle/checkstyle/ab57604c6445da09df83f45a66380fd2fec469c3/src/main/resources/google_checks.xml",
+  "sha256": "9bf56b9b160e84daa48cd37d63f556a8d342e057de82c89f332bbb290550767d",
+  "bytes": 24355
+ },
+ {
+  "name": "checkstyle__checkstyle__src__main__resources__sun_checks.xml",
+  "url": "https://raw.githubusercontent.com/checkstyle/checkstyle/ab57604c6445da09df83f45a66380fd2fec469c3/src/main/resources/sun_checks.xml",
+  "sha256": "ede05411c753dad4bbb261c51896418f80cbf92301d356be09174dae03dfc9fc",
+  "bytes": 8564
+ },
+ {
+  "name": "microsoft__PowerToys__.github__skills__ui-tests-migration__templates__Module.UITests.Next.csproj",
+  "url": "https://raw.githubusercontent.com/microsoft/PowerToys/353caee0be1440da939736967b6680cc5a150f86/.github/skills/ui-tests-migration/templates/Module.UITests.Next.csproj",
+  "sha256": "a2531738fe5a000bc04ac1ea1cd3375f550f833830416a6662b065f503dfa1d3",
+  "bytes": 2763
+ },
+ {
+  "name": "microsoft__PowerToys__.github__skills__winmd-api-search__scripts__cache-generator__CacheGenerator.csproj",
+  "url": "https://raw.githubusercontent.com/microsoft/PowerToys/353caee0be1440da939736967b6680cc5a150f86/.github/skills/winmd-api-search/scripts/cache-generator/CacheGenerator.csproj",
+  "sha256": "18f9e1622ef856e91333afcb944a81d6f63e66c35ca21d9e62f9438b8c1095c8",
+  "bytes": 1450
+ },
+ {
+  "name": "microsoft__PowerToys__Directory.Build.props",
+  "url": "https://raw.githubusercontent.com/microsoft/PowerToys/353caee0be1440da939736967b6680cc5a150f86/Directory.Build.props",
+  "sha256": "fb781ac2d89e7f78ab6f6df9062a5cd31de7704ea15bb8667445f7e542aa570e",
+  "bytes": 12651
+ },
+ {
+  "name": "microsoft__PowerToys__installer__PowerToysSetupVNext__Directory.Build.props",
+  "url": "https://raw.githubusercontent.com/microsoft/PowerToys/353caee0be1440da939736967b6680cc5a150f86/installer/PowerToysSetupVNext/Directory.Build.props",
+  "sha256": "14e8d51f1bf976fd7fa1e75ccab74f8ba1db1d773f463555b3d1fdea5d11d7c2",
+  "bytes": 711
+ },
+ {
+  "name": "dotnet__roslyn__Directory.Build.props",
+  "url": "https://raw.githubusercontent.com/dotnet/roslyn/3f15e26bcfc984bd9582487713e252f78b8cbbd1/Directory.Build.props",
+  "sha256": "3528f28dc7ac49d159852ea40c2d85b2756a871478a6e3bc3e706c61c0c85d67",
+  "bytes": 342
+ },
+ {
+  "name": "dotnet__roslyn__NuGet.config",
+  "url": "https://raw.githubusercontent.com/dotnet/roslyn/3f15e26bcfc984bd9582487713e252f78b8cbbd1/NuGet.config",
+  "sha256": "a0cc93a5e2dccf6fb12f0ea981e696d235ef7a5e6d3dbc007a2eedf7030bd7db",
+  "bytes": 3175
+ },
+ {
+  "name": "dotnet__roslyn__eng__common__internal__Directory.Build.props",
+  "url": "https://raw.githubusercontent.com/dotnet/roslyn/3f15e26bcfc984bd9582487713e252f78b8cbbd1/eng/common/internal/Directory.Build.props",
+  "sha256": "796477de714f29121850a955ab051eaeea0fddd27ef6c47e67320136110dfcdf",
+  "bytes": 408
+ },
+ {
+  "name": "JamesNK__Newtonsoft.Json__Src__Newtonsoft.Json.Tests__Newtonsoft.Json.Tests.csproj",
+  "url": "https://raw.githubusercontent.com/JamesNK/Newtonsoft.Json/52fa3aef1f2cadcd3a3f874251eddc98d3efbbaa/Src/Newtonsoft.Json.Tests/Newtonsoft.Json.Tests.csproj",
+  "sha256": "347b58fc889d11938de94202443ee032645af33d312ecf6bdb2ea26c11e2691e",
+  "bytes": 8637
+ },
+ {
+  "name": "JamesNK__Newtonsoft.Json__Src__Newtonsoft.Json__Newtonsoft.Json.csproj",
+  "url": "https://raw.githubusercontent.com/JamesNK/Newtonsoft.Json/52fa3aef1f2cadcd3a3f874251eddc98d3efbbaa/Src/Newtonsoft.Json/Newtonsoft.Json.csproj",
+  "sha256": "7dada7c2e7fff4d91266180959a3206ab386d797ed8cadba1f8d6ede104a2fd6",
+  "bytes": 13664
+ },
+ {
+  "name": "nunit__nunit__CakeScripts.Tests__CakeScripts.Tests.csproj",
+  "url": "https://raw.githubusercontent.com/nunit/nunit/a4da5901eb896ec9efc688158cace59682f5cd2a/CakeScripts.Tests/CakeScripts.Tests.csproj",
+  "sha256": "69910d0ba2eccea327afd5b1b5859976fb864a35d179e747143814a1c1365d39",
+  "bytes": 846
+ },
+ {
+  "name": "nunit__nunit__CakeScripts__CakeScripts.csproj",
+  "url": "https://raw.githubusercontent.com/nunit/nunit/a4da5901eb896ec9efc688158cace59682f5cd2a/CakeScripts/CakeScripts.csproj",
+  "sha256": "2c82dae7a6492e5dc0d99b6b5a5d1c89a4702b892f71757981e46302949d6115",
+  "bytes": 207
+ },
+ {
+  "name": "nunit__nunit__src__NUnitFramework__Directory.Build.props",
+  "url": "https://raw.githubusercontent.com/nunit/nunit/a4da5901eb896ec9efc688158cace59682f5cd2a/src/NUnitFramework/Directory.Build.props",
+  "sha256": "95959d9c0e5c9b58d4d938761c98d705b4f694c0b73b517d21ac9b7fae09b060",
+  "bytes": 5081
+ },
+ {
+  "name": "nunit__nunit__src__NUnitFramework__Directory.Packages.props",
+  "url": "https://raw.githubusercontent.com/nunit/nunit/a4da5901eb896ec9efc688158cace59682f5cd2a/src/NUnitFramework/Directory.Packages.props",
+  "sha256": "857f62d6919639924dca1079b8dce1d5bd88e8d7e1f0fbd179984f9148233f63",
+  "bytes": 2392
+ },
+ {
+  "name": "moq__moq4__src__Acceptance__Directory.Build.props",
+  "url": "https://raw.githubusercontent.com/moq/moq4/f5c8cddddd29f50d65ed1c4ce67275d832241f1f/src/Acceptance/Directory.Build.props",
+  "sha256": "806b1e923a08508e9c0b4a455f92d77c875a9c4b4bcb889300719f301481f816",
+  "bytes": 409
+ },
+ {
+  "name": "moq__moq4__src__Acceptance__Dynamic__Dynamic.csproj",
+  "url": "https://raw.githubusercontent.com/moq/moq4/f5c8cddddd29f50d65ed1c4ce67275d832241f1f/src/Acceptance/Dynamic/Dynamic.csproj",
+  "sha256": "f166de0f7d09dad5442fd541bce66f3d93efc5d91ed4297b9fcc26ef87235619",
+  "bytes": 773
+ },
+ {
+  "name": "moq__moq4__src__Acceptance__Static__Static.csproj",
+  "url": "https://raw.githubusercontent.com/moq/moq4/f5c8cddddd29f50d65ed1c4ce67275d832241f1f/src/Acceptance/Static/Static.csproj",
+  "sha256": "c1feaa118c0e2d014c05e2c4b16a58152dd8f89beabca820729daceba384b5db",
+  "bytes": 485
+ },
+ {
+  "name": "PowerShell__PowerShell__Analyzers.props",
+  "url": "https://raw.githubusercontent.com/PowerShell/PowerShell/f5fd48483f678ec2f7219ba929d519f94e3e5e72/Analyzers.props",
+  "sha256": "9cf365c92cadf6fffa810fa2acf0de62d80384e044ca2f1ca9a8e820965f3864",
+  "bytes": 267
+ },
+ {
+  "name": "PowerShell__PowerShell__PowerShell.Common.props",
+  "url": "https://raw.githubusercontent.com/PowerShell/PowerShell/f5fd48483f678ec2f7219ba929d519f94e3e5e72/PowerShell.Common.props",
+  "sha256": "53d2e7c348ecc7c1baa2046bb5732abe4b7d172a7047e17e1df575868fd063b9",
+  "bytes": 13194
+ },
+ {
+  "name": "PowerShell__PowerShell__docs__host-powershell__sample__MyApp__MyApp.csproj",
+  "url": "https://raw.githubusercontent.com/PowerShell/PowerShell/f5fd48483f678ec2f7219ba929d519f94e3e5e72/docs/host-powershell/sample/MyApp/MyApp.csproj",
+  "sha256": "9ba1515ad66bb58dfac7b87de98c9976fd1ade3129f5acf67e6a8b1e8d97293f",
+  "bytes": 559
+ },
+ {
+  "name": "PowerShell__PowerShell__nuget.config",
+  "url": "https://raw.githubusercontent.com/PowerShell/PowerShell/f5fd48483f678ec2f7219ba929d519f94e3e5e72/nuget.config",
+  "sha256": "86fb08c68bf47d9f33c701430fb9916d8d349ec9feaba8be3756d2c71b9327df",
+  "bytes": 322
+ },
+ {
+  "name": "microsoft__terminal__Directory.Build.props",
+  "url": "https://raw.githubusercontent.com/microsoft/terminal/0626dc145717313435965eb4f3b0aff5a4cd7df5/Directory.Build.props",
+  "sha256": "af96dc06c85679c0e48d00cf62095d71ff3e0a0190b4d32805773429eba69beb",
+  "bytes": 3957
+ },
+ {
+  "name": "microsoft__terminal__build__packages.config",
+  "url": "https://raw.githubusercontent.com/microsoft/terminal/0626dc145717313435965eb4f3b0aff5a4cd7df5/build/packages.config",
+  "sha256": "f7677f2ed2c3efcaefd34399ea97bb3450f09866da2e7c63d1d4c9bc42137ff0",
+  "bytes": 451
+ },
+ {
+  "name": "microsoft__terminal__build__pgo__Terminal.PGO.props",
+  "url": "https://raw.githubusercontent.com/microsoft/terminal/0626dc145717313435965eb4f3b0aff5a4cd7df5/build/pgo/Terminal.PGO.props",
+  "sha256": "cfd3fba8c374498ffa4765c92c04b5eae8cccfc6ff8941b994ab73b7269f563f",
+  "bytes": 3231
+ },
+ {
+  "name": "microsoft__terminal__common.openconsole.props",
+  "url": "https://raw.githubusercontent.com/microsoft/terminal/0626dc145717313435965eb4f3b0aff5a4cd7df5/common.openconsole.props",
+  "sha256": "dba6b4a1f146ac0da371fdfd8b4a44a1eb494e6a3ddf92eb4d8317eb9f680373",
+  "bytes": 548
+ },
+ {
+  "name": "dotnet__winforms__Directory.Build.props",
+  "url": "https://raw.githubusercontent.com/dotnet/winforms/1176de205e27bb8b17420a82e051ad1928c45137/Directory.Build.props",
+  "sha256": "ec38e786dc268fac57d3ef882366214b9536a7b7551066ad66311faf42b6735c",
+  "bytes": 4598
+ },
+ {
+  "name": "dotnet__winforms__Directory.Packages.props",
+  "url": "https://raw.githubusercontent.com/dotnet/winforms/1176de205e27bb8b17420a82e051ad1928c45137/Directory.Packages.props",
+  "sha256": "db369e91c1490957da4c44ea53280379eb775d9b6e14d77837f45ee89c7089b9",
+  "bytes": 7508
+ },
+ {
+  "name": "dotnet__winforms__eng__Analyzer.props",
+  "url": "https://raw.githubusercontent.com/dotnet/winforms/1176de205e27bb8b17420a82e051ad1928c45137/eng/Analyzer.props",
+  "sha256": "f7fb7b476fa91b55d52ff75e99c26ca74241179e7d93cfeb44237802a1831945",
+  "bytes": 883
+ },
+ {
+  "name": "Azure__azure-sdk-for-net__Directory.Build.props",
+  "url": "https://raw.githubusercontent.com/Azure/azure-sdk-for-net/b4fab018833e53ee73f2a4923ac8e4f2b8335cff/Directory.Build.props",
+  "sha256": "25eccb1b9bd1778f583da20743adb15ea915b3777d6d28e18b78cf6ba5078cbf",
+  "bytes": 3200
+ },
+ {
+  "name": "Azure__azure-sdk-for-net__common__Perf__Azure.Sample.Perf__Azure.Sample.Perf.csproj",
+  "url": "https://raw.githubusercontent.com/Azure/azure-sdk-for-net/b4fab018833e53ee73f2a4923ac8e4f2b8335cff/common/Perf/Azure.Sample.Perf/Azure.Sample.Perf.csproj",
+  "sha256": "de627c221ac8a91275777e186881ebbeac8a8e8b3cca5954b9ae1af4fc1f9f85",
+  "bytes": 333
+ },
+ {
+  "name": "Azure__azure-sdk-for-net__common__Perf__Azure.Test.Perf__Azure.Test.Perf.csproj",
+  "url": "https://raw.githubusercontent.com/Azure/azure-sdk-for-net/b4fab018833e53ee73f2a4923ac8e4f2b8335cff/common/Perf/Azure.Test.Perf/Azure.Test.Perf.csproj",
+  "sha256": "241fb9be95d558806b6fd5e9342dfc9d4c74bf48c0520aef157ad266dccfbecd",
+  "bytes": 786
+ },
+ {
+  "name": "apache__tomcat__conf__web.xml",
+  "url": "https://raw.githubusercontent.com/apache/tomcat/19a8077cd3fd165215c66ab8b70a020c9016aed4/conf/web.xml",
+  "sha256": "d7eec70e96ed18d6f1db1737a5ea5d4638e54730b2bf29d664dacc00a975f092",
+  "bytes": 172780
+ },
+ {
+  "name": "apache__tomcat__modules__cxf__pom.xml",
+  "url": "https://raw.githubusercontent.com/apache/tomcat/19a8077cd3fd165215c66ab8b70a020c9016aed4/modules/cxf/pom.xml",
+  "sha256": "70f2cbed14effafa36e9647343bff748673219496020406fef1257b2354cc8d7",
+  "bytes": 8508
+ },
+ {
+  "name": "apache__struts__apps__pom.xml",
+  "url": "https://raw.githubusercontent.com/apache/struts/3e428e43879548af39293dd74a92e2e5ccfbef56/apps/pom.xml",
+  "sha256": "cef7194429ca311f19bc40a3509da0c03ac30879b43fc4133fdf98a79cf28fcd",
+  "bytes": 4117
+ },
+ {
+  "name": "apache__struts__apps__rest-showcase__pom.xml",
+  "url": "https://raw.githubusercontent.com/apache/struts/3e428e43879548af39293dd74a92e2e5ccfbef56/apps/rest-showcase/pom.xml",
+  "sha256": "8a2c0790dcabb23f4e32815b02bb1c30b5d2e0e2bd9a5c9c9cab1cfb77f4dd81",
+  "bytes": 5917
+ },
+ {
+  "name": "apache__struts__apps__rest-showcase__src__main__resources__struts.xml",
+  "url": "https://raw.githubusercontent.com/apache/struts/3e428e43879548af39293dd74a92e2e5ccfbef56/apps/rest-showcase/src/main/resources/struts.xml",
+  "sha256": "f1178f91899340eb4ad9290c0ad424babf97b2e4bfce5d3897b0f18b0bcf882f",
+  "bytes": 2004
+ },
+ {
+  "name": "xamarin__Xamarin.Forms__AndroidNative__FormsViewGroup__src__main__AndroidManifest.xml",
+  "url": "https://raw.githubusercontent.com/xamarin/Xamarin.Forms/2f8f4864a4d289dc89a6228e2ca9d6a49993e365/AndroidNative/FormsViewGroup/src/main/AndroidManifest.xml",
+  "sha256": "ba2eaccd2b555b5846b463ecdc2a4c3f864f1695dfb4b7c3f19385218a7bdb68",
+  "bytes": 474
+ },
+ {
+  "name": "xamarin__Xamarin.Forms__DualScreen__DualScreen.Android__DualScreen.Android.csproj",
+  "url": "https://raw.githubusercontent.com/xamarin/Xamarin.Forms/2f8f4864a4d289dc89a6228e2ca9d6a49993e365/DualScreen/DualScreen.Android/DualScreen.Android.csproj",
+  "sha256": "79529cdc58b3c6fe6aa109d2663adddb82eba731c2ab2018e76f9c861804e454",
+  "bytes": 6447
+ },
+ {
+  "name": "xamarin__Xamarin.Forms__DualScreen__DualScreen.Android__Properties__AndroidManifest.xml",
+  "url": "https://raw.githubusercontent.com/xamarin/Xamarin.Forms/2f8f4864a4d289dc89a6228e2ca9d6a49993e365/DualScreen/DualScreen.Android/Properties/AndroidManifest.xml",
+  "sha256": "7cb8f4a1d90d6247ca547cf9c2978e7d6ee16c270bec4d62d180c044b1e0d08d",
+  "bytes": 452
+ },
+ {
+  "name": "mono__mono__mcs__class__Microsoft.Build.Engine__Test__resources__TestReturns.csproj",
+  "url": "https://raw.githubusercontent.com/mono/mono/0f53e9e151d92944cacab3e24ac359410c606df6/mcs/class/Microsoft.Build.Engine/Test/resources/TestReturns.csproj",
+  "sha256": "560244b353879a95808760b84c160842268a6e81060629d78c784b1c1d59bf52",
+  "bytes": 380
+ },
+ {
+  "name": "mono__mono__mcs__class__Microsoft.Build__Test__resources__FunctionalTestReferenceProject.csproj",
+  "url": "https://raw.githubusercontent.com/mono/mono/0f53e9e151d92944cacab3e24ac359410c606df6/mcs/class/Microsoft.Build/Test/resources/FunctionalTestReferenceProject.csproj",
+  "sha256": "fb07141811542ecc415a4e7a1356436e6eb1e35dfa0caf199f8c4ff98db6fe55",
+  "bytes": 2022
+ },
+ {
+  "name": "microsoft__PTVS__Build__MicroBuild.props",
+  "url": "https://raw.githubusercontent.com/microsoft/PTVS/f8f79ab2bcb624fcaafecaab43070fd7c9206eb6/Build/MicroBuild.props",
+  "sha256": "6687d83a6b9e04f5bd541bbf8235f4696aff92127f44332e6f58f16c5cbaa217",
+  "bytes": 347
+ },
+ {
+  "name": "microsoft__PTVS__Build__SourceLink.props",
+  "url": "https://raw.githubusercontent.com/microsoft/PTVS/f8f79ab2bcb624fcaafecaab43070fd7c9206eb6/Build/SourceLink.props",
+  "sha256": "f1cc446a7bcab3af79d1c18b4a122fe75c7684c5f430a39ee8ef7ba89650f5fe",
+  "bytes": 2054
+ },
+ {
+  "name": "microsoft__PTVS__Build__VSLanguages.props",
+  "url": "https://raw.githubusercontent.com/microsoft/PTVS/f8f79ab2bcb624fcaafecaab43070fd7c9206eb6/Build/VSLanguages.props",
+  "sha256": "925ce9e54037789255f5cca4b8ecc2198788676a64c57eb17dce9a0671a4025e",
+  "bytes": 1559
+ }
+]

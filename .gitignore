@@ -1,0 +1,5 @@
+node_modules
+dist
+.corpus
+bench/node_modules
+bench/results.json

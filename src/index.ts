@@ -1,0 +1,10 @@
+export { XmlDocument } from './document.ts';
+export type { Element, ElementSpec, InsertOptions, PendingEdit, SetTextOptions } from './document.ts';
+export { EditConflictError, EditError, QuerySyntaxError, UnsupportedEncodingError, XmlSyntaxError } from './errors.ts';
+export type { Attribute, Declaration, ElementNode, Node } from './nodes.ts';
+export { tokenize } from './tokenizer.ts';
+export type { TokenizeOptions } from './tokenizer.ts';
+export { mavenDependencies, mavenProperties, setMavenDependencyVersion } from './maven.ts';
+export type { MavenDependency, MavenVersionResult } from './maven.ts';
+export { msbuildProperties, packageReferences, setPackageVersion } from './csproj.ts';
+export type { PackageRef, PackageVersionResult } from './csproj.ts';

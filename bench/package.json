@@ -1,0 +1,18 @@
+{
+  "name": "xml-splice-bench",
+  "private": true,
+  "type": "module",
+  "description": "Measures incumbent XML libraries against the corpus. Run: cd bench && npm install && cd .. && npm run corpus && npm run build && npm run bench",
+  "dependencies": {
+    "@xmldom/xmldom": "0.9.12",
+    "dom-serializer": "3.1.1",
+    "fast-xml-parser": "5.11.2",
+    "htmlparser2": "12.0.0",
+    "txml": "6.0.3",
+    "xast-util-from-xml": "4.0.0",
+    "xast-util-to-xml": "4.0.0",
+    "xmldoc": "3.0.0",
+    "xml-js": "1.6.11",
+    "xmlpoke": "0.1.16"
+  }
+}
