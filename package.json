@@ -15,10 +15,10 @@
     "round-trip"
   ],
   "license": "MIT",
-  "author": "__AUTHOR__",
+  "author": "kofiadeyemiq",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/__GH_OWNER__/xml-splice.git"
+    "url": "git+https://github.com/quietpelican42/xml-splice.git"
   },
   "type": "module",
   "engines": {
